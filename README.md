@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/martinmmayer/SpaceGame-web-Workflow/_apis/build/status%2Fmmayer11.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/martinmmayer/SpaceGame-web-Workflow/_build/latest?definitionId=8&branchName=main)
+[![Build Status](https://dev.azure.com/martinmmayer/SpaceGame-web-Workflow/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/martinmmayer/SpaceGame-web-Workflow/_build/latest?definitionId=7&branchName=main)
 
 # Contributing
 
